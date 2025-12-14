@@ -16,8 +16,8 @@
 ---
 
 ##  GitHub Stats
-![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicGamerGlobal&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicGamerGlobal&layout=compact&theme=tokyonight)
+![Arya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaSalem67&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaSalem67&layout=compact&theme=tokyonight)
 
 ---
 
