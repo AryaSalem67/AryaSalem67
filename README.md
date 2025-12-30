@@ -25,13 +25,6 @@
 [![Arya's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AryaSalem67&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-
-##  Connect with Me
-[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://epicgamerglobal.github.io](https://epicgamerglobal.github.io/personalsite/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epicgamerglobal@gmail.com)
-
----
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=AryaSalem67&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
